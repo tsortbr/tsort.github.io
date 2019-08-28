@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "echo \"Error: no build specified\" && exit 1",
-    "start": "node server.js",
+    "start": "http-server -p 8080 -i -o",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tsortbr/tsort.github.io/issues"
   },
-  "homepage": "https://github.com/tsortbr/tsort.github.io#readme"
+  "homepage": "https://github.com/tsortbr/tsort.github.io#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
 }
