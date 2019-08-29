@@ -10,5 +10,5 @@ Site para apresentação da empresa TSort e de seus serviços fornecidos e portf
 - Name: Creative
 - <https://startbootstrap.com/themes/creative/>
 ### Top Background Image
-- By: Free-Photos
-- <https://pixabay.com/pt/photos/gadgets-escrit%C3%B3rio-equipamentos-336635/>
+- By: PhotoMIX-Company
+- <https://pixabay.com/pt/photos/laptop-no-escrit%C3%B3rio-mesa-de-trabalho-1967479/>
